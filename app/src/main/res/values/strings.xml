@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Bicycle Watch</string>
+    <string name="img_description">Image</string>
+    <string name="start">Start</string>
+    <string name="menu">Menu</string>
+    <string name="home">Home</string>
+    <string name="gps">GPS</string>
+    <string name="tire">Tire pressure</string>
+    <string name="battery">Battery level</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="locate">自転車の現在地を表示しています</string>
+    <string name="tire_main">現在のタイヤ空気圧:</string>
+    <string name="tire_value">700kPa</string>
+    <string name="tire_red">赤: 低すぎです</string>
+    <string name="tire_green">緑: 適切です　</string>
+    <string name="tire_blue">青: 高すぎです</string>
+    <string name="battery_main">GPSのバッテリー残量:</string>
+    <string name="battery_value">56%</string>
+    <string name="battery_main2">ライトの電池残量:</string>
+    <string name="battery_value2">23%</string>
+    <string name="battery_order">
+        電池の注文は<a href="https://www.amazon.co.jp/%E5%8D%98%E4%B8%89%E9%9B%BB%E6%B1%A0/s?k=%E5%8D%98%E4%B8%89%E9%9B%BB%E6%B1%A0">こちら</a>から
+    </string>
+</resources>
